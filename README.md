@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="40" vertical-align="middle"> MetaMask x Mainnet Allocation 2026
+#  MetaMask Allocation 2026
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 ![Version](https://img.shields.io/badge/Version-1.0.4--BR-orange) 
